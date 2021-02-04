@@ -1,0 +1,16 @@
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\bin\Debug\E-okul projesi 2021.exe.config
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\bin\Debug\E-okul projesi 2021.exe
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\bin\Debug\E-okul projesi 2021.pdb
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E-okul projesi 2021.csprojAssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E_okul_projesi_2021.Form1.resources
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E_okul_projesi_2021.Properties.Resources.resources
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E-okul projesi 2021.csproj.GenerateResource.cache
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E-okul projesi 2021.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E-okul projesi 2021.exe
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E-okul projesi 2021.pdb
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E_okul_projesi_2021.FrmOgrenciNotlar.resources
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E_okul_projesi_2021.FrmOgretmenler.resources
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E_okul_projesi_2021.FrmKulup.resources
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E_okul_projesi_2021.FrmDersler.resources
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E_okul_projesi_2021.FrmOgrenci.resources
+C:\Users\rabia\OneDrive\Masaüstü\Minik E-okul Projesi\E-okul projesi 2021\E-okul projesi 2021\obj\Debug\E_okul_projesi_2021.FrmSınavNotlar.resources
